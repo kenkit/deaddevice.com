@@ -3,11 +3,11 @@
 I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love of creative endeavors & solving puzzles led me to delve into software development.  My calm, organized demeanor and my tenacious determination in solving problems will be a unique asset to a development team.
 
 ### My Projects
-[Neon Direct Download Link](https://www.google.com)
+[Neon Direct Download Link](https://github.com/kenkit/neon/releases/latest)
 
-[NeonService Direct Download Link](https://www.google.com)
+[NeonService Direct Download Link](https://github.com/kenkit/neon_service/releases/latest)
 
-[NeonInstaller Direct Download Link](https://www.google.com)
+[NeonInstaller Direct Download Link](https://github.com/kenkit/neon_installer/releases/latest)
 
 ### Github stats
 ![Kenkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenkit&show_icons=true&theme=radical)
