@@ -9,15 +9,15 @@ I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love o
 
 [NeonInstaller Direct Download Link](https://github.com/kenkit/neon_installer/releases/latest)
 
-### Github stats
+### Github Stats
 ![Kenkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenkit&show_icons=true&theme=radical)
 
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenkit&theme=prussian&layout=compact)
 
-### Codewars stats
+### Codewars Stats
 [![KENKIT](https://www.codewars.com/users/kenkit/badges/large)](https://www.codewars.com/users/kenkit)
 
 
-### Coding activity
+### Coding Activity
 <img src="https://wakatime.com/share/@Sage/248720b9-6ccd-4cf8-a45d-0801fa388c3b.svg"  width="528" height="396" />
