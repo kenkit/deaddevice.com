@@ -2,6 +2,9 @@
 
 I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love of creative endeavors & solving puzzles led me to delve into software development.  My calm, organized demeanor and my tenacious determination in solving problems will be a unique asset to a development team.
 
+### Support| Reach Me
+[Neon Discord Server](https://discord.gg/8G9p8XK4n8)
+
 ### My Projects
 NB:You only need to download Neon Installer, it will install the rest automatically.
 
