@@ -1,5 +1,7 @@
 ## Hi there, I'm Ken
 
+![Gravatar](https://www.gravatar.com/avatar/4cf219ac1c45d5b609ae3c4c6d2ff95c?s=200)
+
 I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love of creative endeavors & solving puzzles led me to delve into software development.  My calm, organized demeanor and my tenacious determination in solving problems will be a unique asset to a development team.
 
 ### Support| Reach Me
