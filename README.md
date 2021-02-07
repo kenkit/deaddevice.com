@@ -11,6 +11,11 @@ NB:You only need to download Neon Installer, it will install the rest automatica
 
 [NeonService Direct Download Link](https://github.com/kenkit/neon_service/releases/latest)
 
+### Windows 7 user| Manual Installation
+
+[Visual C++ Redistributable for Visual Studio 2015 x86](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+
+[7-zip x86](https://www.7-zip.org/download.html)
 
 ### Github Stats
 ![Kenkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenkit&show_icons=true&theme=radical)
