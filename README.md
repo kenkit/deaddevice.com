@@ -32,9 +32,7 @@ You can buy Neon Tokens and Files on our online store via the link below:
 ### Online Profiles, just click on the image
 
 [![My Github Profile](https://repository-images.githubusercontent.com/199973389/5af0d380-e599-11e9-9a4f-c50e3bbde951)](https://github.com/kenkit/)
-
 [![My Keybase Profile](https://media-exp1.licdn.com/dms/image/C560BAQF8gk9zhALfhw/company-logo_200_200/0/1530817510701?e=2159024400&v=beta&t=1zL3X-CMnf7cCFs21vh_0yVFJTmTJHg7lma3lqvuZGE)](https://keybase.io/kenkit)
-
 [![Gravator Profile](https://secure.gravatar.com/blavatar/ba513b2a98257a7e0428a4b663875aff?s=200)](https://en.gravatar.com/kennedycheskaki1)
 
 ### Github Stats
