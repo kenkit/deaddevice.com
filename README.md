@@ -27,9 +27,9 @@ You can buy Neon Tokens and Files on our online store via the link below:
 
 [Visual C++ Redistributable for Visual Studio 2015 x86](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
 
-### Online Profiles, just click on the image
-
 [7-zip x86](https://www.7-zip.org/download.html)
+
+### Online Profiles, just click on the image
 
 [![My Github Profile](https://repository-images.githubusercontent.com/199973389/5af0d380-e599-11e9-9a4f-c50e3bbde951)](https://github.com/kenkit/)
 
