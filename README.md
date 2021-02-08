@@ -16,6 +16,12 @@ NB:You only need to download Neon Installer, it will install the rest automatica
 
 [NeonService Direct Download Link](https://github.com/kenkit/neon_service/releases/latest)
 
+You can buy Neon Tokens and Files on our online store via the link below:
+
+[![Online Store](https://store.deaddevice.com/image/cache/catalog/deaddevice-100x100.png)](https://store.deaddevice.com/)
+
+[>>Click Here<<](https://store.deaddevice.com/)
+
 ### Only for Windows 7 users Or Manual Installation
 
 [Visual C++ Redistributable for Visual Studio 2015 x86](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
