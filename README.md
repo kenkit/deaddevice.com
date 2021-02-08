@@ -18,7 +18,8 @@ NB:You only need to download Neon Installer, it will install the rest automatica
 
 You can buy Neon Tokens and Files on our online store via the link below:
 
-[![Online Store](https://store.deaddevice.com/image/cache/catalog/deaddevice-100x100.png)](https://store.deaddevice.com/)
+[![Online Store](https://i.imgur.com/Y0hDOKS.png)](https://store.deaddevice.com/)
+[![Online Store](https://i.imgur.com/IJBOTsJ.png)](https://store.deaddevice.com/)
 
 [>>Click Here<<](https://store.deaddevice.com/)
 
