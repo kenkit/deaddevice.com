@@ -35,7 +35,7 @@ You can buy Neon Tokens and Files on our online store via the link below:
 [![My Keybase Profile](https://media-exp1.licdn.com/dms/image/C560BAQF8gk9zhALfhw/company-logo_200_200/0/1530817510701?e=2159024400&v=beta&t=1zL3X-CMnf7cCFs21vh_0yVFJTmTJHg7lma3lqvuZGE)](https://keybase.io/kenkit)
 [![Gravator Profile](https://secure.gravatar.com/blavatar/ba513b2a98257a7e0428a4b663875aff?s=200)](https://en.gravatar.com/kennedycheskaki1)
 
-[![Myanimelist](https://www.programmableweb.com/sites/default/files/styles/article_profile_150x150/public/icon_myanimelist_200.png)](https://myanimelist.net/profile/kenkit)
+[![Myanimelist](https://cdn.myanimelist.net/signature/kenkit.png](https://myanimelist.net/animelist/kenkit&sclick=1)
 
 ### Github Stats
 ![Kenkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenkit&show_icons=true&theme=radical)
