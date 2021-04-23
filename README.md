@@ -4,6 +4,8 @@
 
 I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love of creative endeavors & solving puzzles led me to delve into software development.  My calm, organized demeanor and my tenacious determination in solving problems will be a unique asset to a development team.
 
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX3FNkD0kDpDV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ### Support| Reach Me
 [Neon Discord Server](https://discord.gg/8G9p8XK4n8)
 
