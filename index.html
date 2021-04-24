@@ -1,3 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+</style>
+</head>
+ <body>
+ <button onclick="myFunction()">Toggle dark mode</button>
+   
 <h1 id="welcome-to-my-github-profile">Welcome to my Github profile</h1>
 <h2 id="hi-there-i-m-ken">Hi there, I&#39;m Ken</h2>
 <p><a href="https://en.gravatar.com/kennedycheskaki1"><img src="https://www.gravatar.com/avatar/4cf219ac1c45d5b609ae3c4c6d2ff95c?s=200" alt="Gravatar"></a></p>
@@ -14,3 +35,12 @@
 <p><a href="https://www.codewars.com/users/kenkit"><img src="https://www.codewars.com/users/kenkit/badges/large" alt="KENKIT"></a></p>
 <h3 id="myanimelistprofile">MyanimeListProfile</h3>
 <p><a href="https://myanimelist.net/animelist/kenkit&amp;sclick=1"><img src="https://malsignature.com/?/view?username=kenkit&amp;style=normal" alt="Myanimelist"></a></p>
+<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
+
+</body>
+</html>
