@@ -11,7 +11,7 @@
 [![code-size](https://img.shields.io/github/languages/code-size/kenkit/neon.svg?color=44cc11)](https://img.shields.io/github/languages/code-size/kenkit/neon.svg?color=44cc11)
 [![GitHub Releases (by Release)](https://img.shields.io/github/downloads/kenkit/neon/latest/total)](https://github.com/kenkit/neon_installer/releases/latest)
 
-Neon was designed by Neon Itelligence.
+Neon was designed by DeadDevice LLC.
 
 ## Features
 
